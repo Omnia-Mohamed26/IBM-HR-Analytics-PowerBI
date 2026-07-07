@@ -2,9 +2,9 @@
 
 ## 📌 Overview
 
-An interactive HR Analytics Dashboard built with **Power BI** using the IBM HR Analytics dataset.
+An interactive **HR Analytics Dashboard** built with **Power BI** using the IBM HR Analytics dataset.
 
-The dashboard provides insights into workforce demographics, promotion eligibility, retrenchment candidates, job satisfaction, employee performance, and other HR metrics to support data-driven decision-making.
+This dashboard provides actionable insights into workforce demographics, employee performance, promotion eligibility, retrenchment planning, job satisfaction, and workforce distribution to support informed HR decision-making.
 
 ---
 
@@ -12,7 +12,7 @@ The dashboard provides insights into workforce demographics, promotion eligibili
 
 ### 🏠 Home
 
-![Home](Home.png)
+![Home](1_Home.png)
 
 **Highlights**
 - Total Employees
@@ -27,20 +27,20 @@ The dashboard provides insights into workforce demographics, promotion eligibili
 
 ### 📊 Details
 
-![Details](Details.png)
+![Details](2_Details.png)
 
 **Highlights**
 - Promotion & Retrenchment by Department
 - Job Satisfaction Analysis
 - Overtime Analysis
 - Employee Ratings
-- Job Roles Summary
+- Job Role Summary
 
 ---
 
 ### 📋 Action
 
-![Action](Action.png)
+![Action](3_Action.png)
 
 **Highlights**
 - Employees Due for Promotion
@@ -58,22 +58,26 @@ The dashboard provides insights into workforce demographics, promotion eligibili
 
 ---
 
-## 📄 Project Documentation
+## 📄 Project Report
 
-A detailed project report is available in the repository.
+A detailed report explaining the project, dashboard design, business requirements, KPIs, and insights is available below.
+
+📥 **Download here:**
+
+[**IBM HR Analytics Dashboard Report**](IBM-HR-Analytics-Dashboard-Report.pdf)
 
 ---
 
 ## 🎯 Business Value
 
-This dashboard helps HR departments to:
+This dashboard enables HR teams to:
 
 - Monitor workforce demographics.
-- Identify employees eligible for promotion.
-- Track employees due for retrenchment.
+- Track promotion readiness.
+- Identify employees due for retrenchment.
 - Analyze job satisfaction.
-- Monitor overtime patterns.
-- Support HR decision-making through interactive dashboards.
+- Monitor overtime trends.
+- Support strategic HR decision-making.
 
 ---
 
@@ -85,4 +89,4 @@ This dashboard helps HR departments to:
 
 📍 Egypt
 
-💼 Open to Work
+🔗 LinkedIn: https://www.linkedin.com/in/omnia26
