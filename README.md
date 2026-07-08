@@ -227,7 +227,6 @@ This dashboard enables HR teams to:
 ```text
 IBM-HR-Analytics-Dashboard
 │
-├── HR Data Analysis.pbix
 ├── IBM-HR-Analytics-Dashboard-Report.pdf
 ├── 1_Home.png
 ├── 2_Details.png
