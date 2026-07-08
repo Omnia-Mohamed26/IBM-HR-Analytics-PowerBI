@@ -1,6 +1,5 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Used-blue)
-![Power Query](https://img.shields.io/badge/Power%20Query-Used-orange)
+![DAX & Power Query](https://img.shields.io/badge/DAX%20%26%20Power%20Query-Used-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 # 👥 IBM HR Analytics Dashboard
