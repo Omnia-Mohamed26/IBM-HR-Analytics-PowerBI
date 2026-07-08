@@ -4,7 +4,9 @@
 
 # 👥 IBM HR Analytics Dashboard
 
-
+<p align="center">
+  <img src="1_Home.png" alt="IBM HR Analytics Dashboard" width="100%">
+</p>
 
 An interactive **Business Intelligence Dashboard** built with **Power BI** to analyze workforce performance, employee demographics, job satisfaction, promotion eligibility, and retrenchment planning. The project transforms HR data into actionable insights using **Power Query**, **DAX**, and **data modeling** to support strategic Human Resources decisions.
 
